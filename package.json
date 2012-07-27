@@ -1,0 +1,17 @@
+{
+  "author": "ActiveUser",
+  "name": "activeuser.js",
+  "description": "ActiveUser client-side library",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/activeuser/activeuser.js.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "main": "au.js"
+}
